@@ -1,0 +1,6 @@
+C:\Users\igorn\source\repos\LivrosLista\LivrosLista\bin\Debug\LivrosLista.exe.config
+C:\Users\igorn\source\repos\LivrosLista\LivrosLista\bin\Debug\LivrosLista.exe
+C:\Users\igorn\source\repos\LivrosLista\LivrosLista\bin\Debug\LivrosLista.pdb
+C:\Users\igorn\source\repos\LivrosLista\LivrosLista\obj\Debug\LivrosLista.csprojAssemblyReference.cache
+C:\Users\igorn\source\repos\LivrosLista\LivrosLista\obj\Debug\LivrosLista.exe
+C:\Users\igorn\source\repos\LivrosLista\LivrosLista\obj\Debug\LivrosLista.pdb
